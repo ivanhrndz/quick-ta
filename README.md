@@ -9,7 +9,6 @@
          - Sends POST to update table with question and submit time
          - Updates Chat Area
          - Sends statement to model to parse
-         - Receives response and updates chat area
    
 2. Natural lanugage parser for question
    - Tokenize statement (1-gram 2-gram)
