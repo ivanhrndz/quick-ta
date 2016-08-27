@@ -16,35 +16,68 @@
    - topic analysis (LDA/ Labeled LDA)
 
 3. Prediction of information requested
-   - Multiclass classier
+   - Multiclass classier predicts:
+      - Entity of interest
+      - Property of entity being asked
+
+   | Exam | Property            |
+|------|---------------------|
+|      | Topic               |
+|      | Location            |
+|      | Date and Time       |
+|      | Format              |
+|      | Number of Questions |
+
+
+| Quiz | Property            |
+|------|---------------------|
+|      | Topic               |
+|      | Location            |
+|      | Date and Time       |
+|      | Format              |
+|      | Number of Questions |
+
+
+| Report | Property          |
+|------|---------------------|
+|      | Topic               |
+|      | Location            |
+|      | Deadline		     |
+|      | Format              |
+|      | Requirements 		 |
+
+| CoursePolicy | Property          |
+|------|---------------------|
+|      | Emergency Contact   |
+|      | Absence	         |
+|      | Attendance		     |
+|      | Late Assignments    |
+|      | Requirements 		 |
+
+	
+| Grading Policy | Property          |
+|------|---------------------|
+|      | How to calculate grade  |
+|      | Absence	         |
+|      | Attendance		     |
+|      | Late Assignments    |
+|      | Requirements 		 |
+
+	
+| Teaching Assistant | Property          |
+|------|---------------------|
+|      | Name				 |
+|      | Contact Information |
+|      | Office Hours		 |
+
+| Instructor | Property          |
+|------|---------------------|
+|      | Name				 |
+|      | Contact Information |
+|      | Office Hours		 |
+	
+
    
-   - Scheduling
-      - Exams
-      - Homework
-      - Office Hours
-     
-   - Grading
-         - Current Grade
-         - Exam worth
-         - Extra credit opportunities
-     
-   - Course requirements
-      - Book requirement
-      - Technology Requirement
-   
-   - Location
-      - Office hours
-      - Exams
-      - Quizzes
-   
-   - Emergency
-      - Missed class
-      - Missed exam
-      - Upcoming absence
-      
-   - Resources
-      - Tutoring
-      - Involved in research
       
 4) Retreive Information
 
