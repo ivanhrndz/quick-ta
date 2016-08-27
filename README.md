@@ -62,9 +62,9 @@
 |                 | Office Hours		 |
 	
  
-4) Retreive Information matching entiry and property
+4) Retreive Information matching entity and property
 
-5) Pass back information
+5) Send back information
 
 6) Update model
    - Ask for feedback
