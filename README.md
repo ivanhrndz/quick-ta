@@ -20,58 +20,46 @@
       - Entity of interest
       - Property of entity being asked
 
-   | Exam | Property            |
-|------|---------------------|
-|      | Topic               |
-|      | Location            |
-|      | Date and Time       |
-|      | Format              |
-|      | Number of Questions |
-
-
-| Quiz | Property            |
-|------|---------------------|
-|      | Topic               |
-|      | Location            |
-|      | Date and Time       |
-|      | Format              |
-|      | Number of Questions |
-
-
-| Report | Property          |
-|------|---------------------|
-|      | Topic               |
-|      | Location            |
-|      | Deadline		     |
-|      | Format              |
-|      | Requirements 		 |
-
-| CoursePolicy | Property          |
-|------|---------------------|
+| Entity        | Property           |
+|---------------|---------------------|
+| Exam   	|                     |
+|        	| Topic               |
+|       	| Location            |
+|       	| Date and Time       |
+|       	| Format              |
+|        	| Number of Questions |
+| Quiz   	|                     |
+|---------------|---------------------|
+|        	| Topic               |
+|        	| Location            |
+|        	| Date and Time       |
+|       	| Format              |
+|        	| Number of Questions |
+| Report	|                     |
+|---------------|---------------------|
+		| Topic               |
+|          	| Location            |
+|               | Deadline	      |
+|               | Format              |
+|               | Requirements        |
+| Course Policy |                     |
 |      | Emergency Contact   |
 |      | Absence	         |
 |      | Attendance		     |
 |      | Late Assignments    |
 |      | Requirements 		 |
-
-	
-| Grading Policy | Property          |
-|------|---------------------|
+| Grading Policy |       |
 |      | How to calculate grade  |
 |      | Absence	         |
 |      | Attendance		     |
 |      | Late Assignments    |
 |      | Requirements 		 |
-
-	
-| Teaching Assistant | Property          |
+| Teaching Assistant |     |
 |------|---------------------|
 |      | Name				 |
 |      | Contact Information |
 |      | Office Hours		 |
-
-| Instructor | Property          |
-|------|---------------------|
+| Instructor |  |
 |      | Name				 |
 |      | Contact Information |
 |      | Office Hours		 |
