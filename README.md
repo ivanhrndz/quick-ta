@@ -22,7 +22,7 @@
 
 | Entity        | Property           |
 |-----------------|---------------------|
-| *Exam *  	  |                     |
+| *Exam*  	  |                     |
 |        	  | Topic               |
 |                 | Location            |
 |       	  | Date and Time       |
