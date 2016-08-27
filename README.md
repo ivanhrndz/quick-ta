@@ -21,53 +21,48 @@
       - Property of entity being asked
 
 | Entity        | Property           |
-|---------------|---------------------|
-| Exam   	|                     |
-|        	| Topic               |
-|       	| Location            |
-|       	| Date and Time       |
-|       	| Format              |
-|        	| Number of Questions |
-| Quiz   	|                     |
-|---------------|---------------------|
-|        	| Topic               |
-|        	| Location            |
-|        	| Date and Time       |
-|       	| Format              |
-|        	| Number of Questions |
-| Report	|                     |
-|---------------|---------------------|
-		| Topic               |
-|          	| Location            |
-|               | Deadline	      |
-|               | Format              |
-|               | Requirements        |
-| Course Policy |                     |
-|      | Emergency Contact   |
-|      | Absence	         |
-|      | Attendance		     |
-|      | Late Assignments    |
-|      | Requirements 		 |
-| Grading Policy |       |
-|      | How to calculate grade  |
-|      | Absence	         |
-|      | Attendance		     |
-|      | Late Assignments    |
-|      | Requirements 		 |
-| Teaching Assistant |     |
-|------|---------------------|
-|      | Name				 |
-|      | Contact Information |
-|      | Office Hours		 |
-| Instructor |  |
-|      | Name				 |
-|      | Contact Information |
-|      | Office Hours		 |
+|-----------------|---------------------|
+| *Exam *  	  |                     |
+|        	  | Topic               |
+|                 | Location            |
+|       	  | Date and Time       |
+|       	  | Format              |
+|        	  | Number of Questions |
+| *Quiz*   	  |                     |
+|        	  | Topic               |
+|        	  | Location            |
+|        	  | Date and Time       |
+|         	  | Format              |
+|        	  | Number of Questions |
+| *Report*	  |                     |
+		  | Topic               |
+|          	  | Location            |
+|                 | Deadline	        |
+|                 | Format              |
+|                 | Requirements        |
+| *Course Policy* |                     |
+|       	  | Emergency Contact   |
+|      		  | Absence	        |
+|      		  | Attendance		|
+|      		  | Late Assignments    |
+|      		  | Requirements        |
+| Grading Policy  |                     |
+|      		  | How to calculate grade  |
+|                 | Absence	         |
+|                 | Attendance		 |
+|                 | Late Assignments    |
+|                 | Requirements 		 |
+| Teaching Assistant |                   |
+|                 | Name				 |
+|                 | Contact Information |
+|                 | Office Hours		 |
+| Instructor      |  |
+|        	  | Name				 |
+|                 | Contact Information |
+|                 | Office Hours		 |
 	
-
-   
-      
-4) Retreive Information
+ 
+4) Retreive Information matching entiry and property
 
 5) Pass back information
 
