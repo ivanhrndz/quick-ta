@@ -22,41 +22,41 @@
 
 | Entity        | Property           |
 |-----------------|---------------------|
-| *Exam*  	  |                     |
+| **Exam**  	  |                     |
 |        	  | Topic               |
 |                 | Location            |
 |       	  | Date and Time       |
 |       	  | Format              |
 |        	  | Number of Questions |
-| *Quiz*   	  |                     |
+| **Quiz**   	  |                     |
 |        	  | Topic               |
 |        	  | Location            |
 |        	  | Date and Time       |
 |         	  | Format              |
 |        	  | Number of Questions |
-| *Report*	  |                     |
+| **Report**	  |                     |
 		  | Topic               |
 |          	  | Location            |
 |                 | Deadline	        |
 |                 | Format              |
 |                 | Requirements        |
-| *Course Policy* |                     |
+| **Course Policy** |                     |
 |       	  | Emergency Contact   |
 |      		  | Absence	        |
 |      		  | Attendance		|
 |      		  | Late Assignments    |
 |      		  | Requirements        |
-| Grading Policy  |                     |
+| **Grading Policy**  |                     |
 |      		  | How to calculate grade  |
 |                 | Absence	         |
 |                 | Attendance		 |
 |                 | Late Assignments    |
 |                 | Requirements 		 |
-| Teaching Assistant |                   |
+| **Teaching Assistant** |                   |
 |                 | Name				 |
 |                 | Contact Information |
 |                 | Office Hours		 |
-| Instructor      |  |
+| **Instructor**      |  |
 |        	  | Name				 |
 |                 | Contact Information |
 |                 | Office Hours		 |
