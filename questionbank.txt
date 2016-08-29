@@ -1,0 +1,92 @@
+Question	Entity	Property
+Where is the classroom	Class	Location
+Where can I find the class	Class	Location
+How do I get to the classroom	Class	Location
+What time does class start	Class	Date and Time
+Do we have class tomorrow	Class	Date and Time
+When does class end	Class	Date and Time
+When does class begin	Class	Date and Time
+When should I arrive to class	Class	Date and Time
+How long is the lesson	Class	Date and Time
+How long is class	Class	Date and Time
+When does class get out	Class	Date and Time
+What is the exam about	Exam	Topic
+What is covered in the exam	Exam	Topic
+What should I know for the exam	Exam	Topic
+Where can I find the exam	Exam	Location
+Where should I go for the exam	Exam	Location
+Where is the exam	Exam	Location
+What room is the exam in	Exam	Location
+How do I get to the exam	Exam	Location
+What location is the exam	Exam	Location
+What address is the exam	Exam	Location
+What building is the exam	Exam	Location
+Where is the exam going to be	Exam	Location
+Where do I go to for the exam 	Exam	Location
+What room is the exam held in	Exam	Location
+What time is the exam	Exam	Date and Time
+When do we have an exam	Exam	Date and Time
+When do we have to take an exam	Exam	Date and Time
+Do we have a test tomorrow	Exam	Date and Time
+When the exam	Exam	Date and Time
+What day is the exam	Exam	Date and Time
+What format is the exam	Exam	Format
+How long is the exam	Exam	Number of Questions
+Can I make up the exam	Exam	Make up
+What is convered on the quiz	Quiz	Topic
+Where are the quizzes held	Quiz	Location
+Where are the quizzes going to be	Quiz	Location
+Where do I go for the quiz	Quiz	Location
+When is the quiz	Quiz	Date and Time
+When do we have a quiz	Quiz	Date and Time
+Do we have a quiz tomorrow	Quiz	Date and Time
+What day is the quiz	Quiz	Date and Time
+When are we going to have a quiz	Quiz	Date and Time
+When are the quizzes	Quiz	Date and Time
+What format is the quiz	Quiz	Format
+Is the quiz multiple choice	Quiz	Format
+How many questions are on the quiz	Quiz	Format
+Are there essay questions on the quiz	Quiz	Format
+How many questions are on the quiz	Quiz	Number of Questions
+How long is the quiz	Quiz	Number of Questions
+How many items are on the quiz	Quiz	Number of Questions
+What is the topic of the report	Report	Topic
+What is the report about	Report	Topic
+When is the report due	Report	Deadline
+When is the final paper due	Report	Deadline
+When do I need to turn in the report	Report	Deadline
+How long does the report need to be	Report	Format
+What do I need to do for the report	Report	Requirements
+I missed class	Course Policy	Absence
+What do I do if I am absent	Course Policy	Absence
+I am not going to be able to make it tomorrow	Course Policy	Absence
+Is attendance mandatory	Course Policy	Attendance
+Do I have to show up for class	Course Policy	Attendance
+Can I turn in an assignment late	Course Policy	Late Assignments
+Do I need to buy the book	Course Policy	Requirements
+How do I calculate my grade	Grading Policy	How to calculate grade
+What percentage of my final grade is from the final exam	Grading Policy	How to calculate grade
+What is my grade	Grading Policy	How to calculate grade
+What grade do I have	Grading Policy	How to calculate grade
+What is my current grade	Grading Policy	How to calculate grade
+Can I turn in an assignment late	Grading Policy	Late Assignments
+Will I lose points if my assignment is late	Grading Policy	Late Assignments
+What I turn in my assignment after the deadline	Grading Policy	Late Assignments
+Who is the teaching assistant	Teaching Assistant	Name
+Who are the teaching assistants	Teaching Assistant	Name
+What is the name of the teaching assistant	Teaching Assistant	Name
+How do I contact the 	Teaching Assistant	Contact Information
+How can I email the TA Teaching Assistant	Teaching Assistant	Contact Information
+When are the Tas office hours	Teaching Assistant	Office Hours
+I need help completing an assignment	Teaching Assistant	Office Hours
+When can I see the TA for help	Teaching Assistant	Office Hours
+When is the TA available for office hours	Teaching Assistant	Office Hours
+What is the teacher's name	Instructor	Name
+Who is the instructor	Instructor	Name
+What is the teacher's e-mail	Instructor	Contact Information
+How do I contact the teacher	Instructor	Contact Information
+How do I reach the teacher	Instructor	Contact Information
+How can I contact the instructor	Instructor	Contact Information
+What the office hours for the course	Instructor	Office Hours
+What the teacher's office hours	Instructor	Office Hours
+When can I come to office hours	Instructor	Office Hours
